@@ -102,6 +102,10 @@ nyxvamp's color palettes are inspired by the base16 system, ensuring consistency
 
 *bright blues, purples, and soft yellows bring energy and clarity.*
 
+## code of conduct
+
+please take a careful look into our [code of conduct](./cod.md)
+
 ---
 
 made with 💖 by @zoedsoupe
