@@ -104,7 +104,7 @@ nyxvamp's color palettes are inspired by the base16 system, ensuring consistency
 
 ## code of conduct
 
-please take a careful look into our [code of conduct](../../cod.md)
+please take a careful look into our [code of conduct](../cod.md)
 
 ---
 
