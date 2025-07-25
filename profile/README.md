@@ -1,6 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/nyxvamp/nyxvamp/main/.github/logo-wordmark.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/nyxvamp/nyxvamp/main/.github/logo.png" width="400" alt="Nyxvamp"/>
+	<img src="logo.png" width="400" alt="Nyxvamp"/>
 	<br/><br/>
 	<i>🌙 minimalist gothic themes with transfem symbolism</i>
 	<br/><br/>
