@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="logo.png" width="400" alt="Nyxvamp"/>
+	<img src="../logo.png" width="400" alt="Nyxvamp"/>
 	<br/><br/>
 	<i>🌙 minimalist gothic themes with transfem symbolism</i>
 	<br/><br/>
