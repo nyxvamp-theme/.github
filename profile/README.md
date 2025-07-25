@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/nyxvamp/nyxvamp/stargazers"><img src="https://img.shields.io/github/stars/nyxvamp/nyxvamp?colorA=1e1e2e&colorB=ff79c6&style=for-the-badge"></a>
-	<a href="https://github.com/nyxvamp/nyxvamp/issues"><img src="https://img.shields.io/github/issues/nyxvamp/nyxvamp?colorA=1e1e2e&colorB=f1fa8c&style=for-the-badge"></a>
-	<a href="https://github.com/nyxvamp/nyxvamp/contributors"><img src="https://img.shields.io/github/contributors/nyxvamp/nyxvamp?colorA=1e1e2e&colorB=8be9fd&style=for-the-badge"></a>
+	<a href="https://github.com/nyxvamp-theme/nyxvamp/stargazers"><img src="https://img.shields.io/github/stars/nyxvamp-theme/nyxvamp?colorA=1e1e2e&colorB=ff79c6&style=for-the-badge"></a>
+	<a href="https://github.com/nyxvamp-theme/nyxvamp/issues"><img src="https://img.shields.io/github/issues/nyxvamp-theme/nyxvamp?colorA=1e1e2e&colorB=f1fa8c&style=for-the-badge"></a>
+	<a href="https://github.com/nyxvamp-theme/nyxvamp/contributors"><img src="https://img.shields.io/github/contributors/nyxvamp-theme/nyxvamp?colorA=1e1e2e&colorB=8be9fd&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 &nbsp;
 
-## 🎨 Palette
+## Palette
 
 <details>
-<summary>🌚 <strong>veil</strong> - versatile dark theme with bright accents</summary>
+<summary>🌙 <strong>veil</strong> - versatile dark theme with bright accents</summary>
 
 &nbsp;
 
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary>🖤 <strong>obsidian</strong> - very dark theme for focused nighttime sessions</summary>
+<summary>🦇 <strong>obsidian</strong> - very dark theme for focused nighttime sessions</summary>
 
 &nbsp;
 
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary>✨ <strong>radiance</strong> - optimized light theme with excellent contrast</summary>
+<summary><strong>radiance</strong> - optimized light theme with excellent contrast</summary>
 
 &nbsp;
 
@@ -106,16 +106,16 @@
 
 &nbsp;
 
-## ✨ Features
+## Features
 
-- 🎯 **High contrast** - optimized readability across all variants
-- 🌳 **Semantic highlighting** - meaningful color distinctions via treesitter
-- 🎨 **Minimalist design** - clean, uncluttered interface
-- 🎵 **Consistent palette** - cohesive colors across light and dark variants
+- **High contrast** - optimized readability across all variants
+- **Semantic highlighting** - meaningful color distinctions via treesitter
+- **Minimalist design** - clean, uncluttered interface
+- **Consistent palette** - cohesive colors across light and dark variants
 
 &nbsp;
 
-## 📦 Platforms
+## Platforms
 
 <p align="center">
 	<a href="../helix"><img src="https://img.shields.io/badge/Helix-1e1e2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAxMkwxMy4wOSAxNS43NEwxMiAyMkwxMC45MSAxNS43NEw0IDEyTDEwLjkxIDguMjZMMTIgMloiIGZpbGw9IiNmZjc5YzYiLz4KPC9zdmc+"/></a>
