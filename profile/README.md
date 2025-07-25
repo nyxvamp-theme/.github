@@ -1,39 +1,134 @@
-# nyxvamp theme 🌙
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/nyxvamp/nyxvamp/main/.github/logo-wordmark.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/nyxvamp/nyxvamp/main/.github/logo.png" width="400" alt="Nyxvamp"/>
+	<br/><br/>
+	<i>🌙 minimalist gothic themes with transfem symbolism</i>
+	<br/><br/>
+</h3>
 
-  a minimalist theme collection inspired by gothic and emo aesthetics with transfem symbolism. deep purples, soft pinks, and
-  neutral tones create strong contrast and comfortable coding.
+<p align="center">
+	<a href="https://github.com/nyxvamp-theme/nyxvamp/stargazers"><img src="https://img.shields.io/github/stars/nyxvamp-theme/nyxvamp?colorA=1e1e2e&colorB=ff79c6&style=for-the-badge"></a>
+	<a href="https://github.com/nyxvamp-theme/nyxvamp/issues"><img src="https://img.shields.io/github/issues/nyxvamp-theme/nyxvamp?colorA=1e1e2e&colorB=f1fa8c&style=for-the-badge"></a>
+	<a href="https://github.com/nyxvamp-theme/nyxvamp/contributors"><img src="https://img.shields.io/github/contributors/nyxvamp-theme/nyxvamp?colorA=1e1e2e&colorB=8be9fd&style=for-the-badge"></a>
+</p>
 
-  ## variants
+<p align="center">
+	deep purples, soft pinks, and neutral tones create strong contrast and comfortable coding
+</p>
 
-  ### **veil** (dark)
-  versatile dark theme with bright accents
-  - background: `#1E1E2E` (dark navy)
-  - text: `#D9E0EE` (light lavender)
-  - accents: green strings, blue functions, pink keywords
+&nbsp;
 
-  ### **obsidian** (darker)
-  very dark theme for focused nighttime sessions
-  - background: `#000A0F` (very dark)
-  - text: `#C0C0CE` (muted lavender)
-  - accents: muted colors for reduced eye strain
+## Palette
 
-  ### **radiance** (light)
-  optimized light theme with excellent contrast
-  - background: `#F7F7FF` (off-white)
-  - text: `#1E1E2E` (dark navy)
-  - accents: dark golden strings, deep purple keywords, dark blue functions
+<details>
+<summary>🌙 <strong>veil</strong> - versatile dark theme with bright accents</summary>
 
-  ## features
+&nbsp;
 
-  - **high contrast** - optimized readability across all variants
-  - **semantic highlighting** - meaningful color distinctions via treesitter
-  - **minimalist design** - clean, uncluttered interface
-  - **consistent palette** - cohesive colors across light and dark variants
+<table>
+	<tr>
+		<th></th>
+		<th>Hex</th>
+		<th>RGB</th>
+		<th>Usage</th>
+	</tr>
+	<tr>
+		<td><img src="https://via.placeholder.com/23/1E1E2E/1E1E2E.png" width="23" height="23"/></td>
+		<td><code>#1E1E2E</code></td>
+		<td><code>rgb(30, 30, 46)</code></td>
+		<td>Background</td>
+	</tr>
+	<tr>
+		<td><img src="https://via.placeholder.com/23/D9E0EE/D9E0EE.png" width="23" height="23"/></td>
+		<td><code>#D9E0EE</code></td>
+		<td><code>rgb(217, 224, 238)</code></td>
+		<td>Foreground</td>
+	</tr>
+</table>
 
-  ## platforms
+</details>
 
-  available for: helix, zed, vscode, rio terminal, warp terminal
+<details>
+<summary>🦇 <strong>obsidian</strong> - very dark theme for focused nighttime sessions</summary>
 
-  ---
+&nbsp;
 
-  made with 💖 by @zoedsoupe
+<table>
+	<tr>
+		<th></th>
+		<th>Hex</th>
+		<th>RGB</th>
+		<th>Usage</th>
+	</tr>
+	<tr>
+		<td><img src="https://via.placeholder.com/23/000A0F/000A0F.png" width="23" height="23"/></td>
+		<td><code>#000A0F</code></td>
+		<td><code>rgb(0, 10, 15)</code></td>
+		<td>Background</td>
+	</tr>
+	<tr>
+		<td><img src="https://via.placeholder.com/23/C0C0CE/C0C0CE.png" width="23" height="23"/></td>
+		<td><code>#C0C0CE</code></td>
+		<td><code>rgb(192, 192, 206)</code></td>
+		<td>Foreground</td>
+	</tr>
+</table>
+
+</details>
+
+<details>
+<summary><strong>radiance</strong> - optimized light theme with excellent contrast</summary>
+
+&nbsp;
+
+<table>
+	<tr>
+		<th></th>
+		<th>Hex</th>
+		<th>RGB</th>
+		<th>Usage</th>
+	</tr>
+	<tr>
+		<td><img src="https://via.placeholder.com/23/F7F7FF/F7F7FF.png" width="23" height="23"/></td>
+		<td><code>#F7F7FF</code></td>
+		<td><code>rgb(247, 247, 255)</code></td>
+		<td>Background</td>
+	</tr>
+	<tr>
+		<td><img src="https://via.placeholder.com/23/1E1E2E/1E1E2E.png" width="23" height="23"/></td>
+		<td><code>#1E1E2E</code></td>
+		<td><code>rgb(30, 30, 46)</code></td>
+		<td>Foreground</td>
+	</tr>
+</table>
+
+</details>
+
+&nbsp;
+
+## Features
+
+- **High contrast** - optimized readability across all variants
+- **Semantic highlighting** - meaningful color distinctions via treesitter
+- **Minimalist design** - clean, uncluttered interface
+- **Consistent palette** - cohesive colors across light and dark variants
+
+&nbsp;
+
+## Platforms
+
+<p align="center">
+	<a href="../helix"><img src="https://img.shields.io/badge/Helix-1e1e2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAxMkwxMy4wOSAxNS43NEwxMiAyMkwxMC45MSAxNS43NEw0IDEyTDEwLjkxIDguMjZMMTIgMloiIGZpbGw9IiNmZjc5YzYiLz4KPC9zdmc+"/></a>
+	<a href="../zed"><img src="https://img.shields.io/badge/Zed-1e1e2e?style=for-the-badge&logo=zedindustries&logoColor=8be9fd"/></a>
+	<a href="../vscode"><img src="https://img.shields.io/badge/VS_Code-1e1e2e?style=for-the-badge&logo=visual-studio-code&logoColor=bd93f9"/></a>
+	<a href="../rio"><img src="https://img.shields.io/badge/Rio_Terminal-1e1e2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE4IiByeD0iMiIgZmlsbD0iIzUwZmE3YiIvPgo8L3N2Zz4K"/></a>
+	<a href="../warp"><img src="https://img.shields.io/badge/Warp-1e1e2e?style=for-the-badge&logo=warp&logoColor=f1fa8c"/></a>
+</p>
+
+&nbsp;
+
+---
+
+<p align="center">
+	made with 💖 by <a href="https://github.com/zoedsoupe">@zoedsoupe</a>
+</p>
