@@ -17,6 +17,33 @@
 
 &nbsp;
 
+## Showcase
+
+<table>
+	<tr>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/nyxvamp-theme/nyxvamp/main/assets/screenshots/veil-showcase.png" width="100%" alt="veil"/>
+			<br/>🌙 <b>veil</b>
+		</td>
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/nyxvamp-theme/nyxvamp/main/assets/screenshots/obsidian-showcase.png" width="100%" alt="obsidian"/>
+			<br/>🦇 <b>obsidian</b>
+		</td>
+		<!-- add back once assets/screenshots/jhujuba-showcase.png exists
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/nyxvamp-theme/nyxvamp/main/assets/screenshots/jhujuba-showcase.png" width="100%" alt="jhujuba"/>
+			<br/>🍬 <b>jhujuba</b>
+		</td>
+		-->
+		<td align="center">
+			<img src="https://raw.githubusercontent.com/nyxvamp-theme/nyxvamp/main/assets/screenshots/radiance-showcase.png" width="100%" alt="radiance"/>
+			<br/>☀️ <b>radiance</b>
+		</td>
+	</tr>
+</table>
+
+&nbsp;
+
 ## Palette
 
 <details>
