@@ -7,6 +7,7 @@ minimalist gothic themes with transfem symbolism. deep purples, soft pinks, and 
 - **veil** - versatile dark theme with bright accents
 - **obsidian** - very dark theme for focused nighttime sessions  
 - **radiance** - optimized light theme with excellent contrast
+- **jhujuba** - pink-tinted mid-dark theme, sweeter than veil
 
 ## features
 
